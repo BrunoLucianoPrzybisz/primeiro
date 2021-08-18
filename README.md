@@ -1,2 +1,3 @@
 # primeiro
- meu primeiro trabalho
+ meu primeiro repositorio
+ Relizando priemiro commit
