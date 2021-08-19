@@ -1,3 +1,5 @@
 # primeiro
  meu primeiro repositorio
- Relizando priemiro commit
+ Realizando priemiro commit
+ Realizando segundo commit
+ 
